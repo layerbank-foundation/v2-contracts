@@ -31,6 +31,7 @@
 
 ### Linea Mainnet (V2)
 - Core : [0x43Eac5BFEa14531B8DE0B334E123eA98325de866](https://lineascan.build/address/0x43Eac5BFEa14531B8DE0B334E123eA98325de866)
+- Validator : [0x720A99762bb3d2B98C8ddD64E13b0851355CA0E7](https://lineascan.build/address/0x720A99762bb3d2B98C8ddD64E13b0851355CA0E7)
 - lETH : [0x9E9aec6a296f94C8530e2dD01FF3E9c61555D39a](https://lineascan.build/address/0x9E9aec6a296f94C8530e2dD01FF3E9c61555D39a)
 - lUSDC : [0x5924117c4a5e000312684A5e76E90cC93AdDdE6b](https://lineascan.build/address/0x5924117c4a5e000312684A5e76E90cC93AdDdE6b)
 - lWBTC : [0xCCba9Ac94531E15aA55D9065e398812F06B84F14](https://lineascan.build/address/0xCCba9Ac94531E15aA55D9065e398812F06B84F14)
@@ -46,18 +47,18 @@
 - lBBTC : [0x6fE39525298118a6B58646b83f6B23e48208a855](https://lineascan.build/address/0x6fE39525298118a6B58646b83f6B23e48208a855)
 - lSolvBTCb : [0xA630475EF1511e54F9B061D6D830E19bE182Bc79](https://lineascan.build/address/0xA630475EF1511e54F9B061D6D830E19bE182Bc79)
 - Leverager : [0xc98B936d7540ba67C2260916aE91b3EEB9eeFff3](https://lineascan.build/address/0xc98B936d7540ba67C2260916aE91b3EEB9eeFff3)
-- PriceCalculator : [0x35A8C6050591C2f65B3e926B4b2eF825E3766bd6](https://lineascan.build/address/0x35A8C6050591C2f65B3e926B4b2eF825E3766bd6)
+- PriceCalculator : [0x42e62fec1036f874A7579806530d628a59B6d7FB](https://lineascan.build/address/0x42e62fec1036f874A7579806530d628a59B6d7FB)
 
 
 ### Scroll Mainnet
 - LABToken : [0x2A00647F45047f05BDed961Eb8ECABc42780e604](https://scrollscan.com/address/0x2A00647F45047f05BDed961Eb8ECABc42780e604)
 - xLAB : [0x4e3A9D352Cc89B18DFDDc6aF1b578fcB2cB6D0bA](https://scrollscan.com/address/0x4e3A9D352Cc89B18DFDDc6aF1b578fcB2cB6D0bA)
-- Validator : [0xf893D5510bd220Fb84c3A116D220271A850AD979](https://scrollscan.com/address/0xf893D5510bd220Fb84c3A116D220271A850AD979)
+- Validator : [0xf5Aa63785eee2712f1e971A6a917e7E14A393c23](https://scrollscan.com/address/0xf5Aa63785eee2712f1e971A6a917e7E14A393c23)
 - LABDistributor : [0xF1F897601A525F57c5EA751a1F3ec5f9ADAc0321](https://scrollscan.com/address/0xF1F897601A525F57c5EA751a1F3ec5f9ADAc0321)
 - RewardController : [0x20112c6128550e13600D52200A5f185c6aaE4e42](https://scrollscan.com/address/0x20112c6128550e13600D52200A5f185c6aaE4e42)
 - RebateDistributor : [0x615B3FA9e6546Cd95864ca6C8A7f66B9A6545778](https://scrollscan.com/address/0x615B3FA9e6546Cd95864ca6C8A7f66B9A6545778)
 - Core : [0xEC53c830f4444a8A56455c6836b5D2aA794289Aa](https://scrollscan.com/address/0xEC53c830f4444a8A56455c6836b5D2aA794289Aa)
-- PriceCalculator : [0x760bd7Fc100F217678D1b521404D2E93Db7Bec5F](https://scrollscan.com/address/0x760bd7Fc100F217678D1b521404D2E93Db7Bec5F)
+- PriceCalculator : [0xe3168c8D1Bcf6aaF5E090F61be619c060F3aD508](https://scrollscan.com/address/0xe3168c8D1Bcf6aaF5E090F61be619c060F3aD508)
 - RateModelSlope : [0x18941f10B29a7F6d5290F3B1D5fcC7ae9f6f8DF4](https://scrollscan.com/address/0x18941f10B29a7F6d5290F3B1D5fcC7ae9f6f8DF4)
 - lETH : [0x274C3795dadfEbf562932992bF241ae087e0a98C](https://scrollscan.com/address/0x274C3795dadfEbf562932992bF241ae087e0a98C)
 - lUSDC : [0x0D8F8e271DD3f2fC58e5716d3Ff7041dBe3F0688](https://scrollscan.com/address/0x0D8F8e271DD3f2fC58e5716d3Ff7041dBe3F0688)
@@ -76,12 +77,12 @@
 ### Manta Pacific Mainnet
 - LABToken : [0x20A512dbdC0D006f46E6cA11329034Eb3d18c997](https://pacific-explorer.manta.network/address/0x20A512dbdC0D006f46E6cA11329034Eb3d18c997)
 - xLAB : [0x69E38d781183A52dE5e7506cd57bC6C55Bb74467](https://pacific-explorer.manta.network/address/0x69E38d781183A52dE5e7506cd57bC6C55Bb74467)
-- Validator : [0xca892a10908A38044E933836c21f28aC34Ff157F](https://pacific-explorer.manta.network/address/0xca892a10908A38044E933836c21f28aC34Ff157F)
+- Validator : [0x3447275b4252b7929483528cF966eB466e71277e](https://pacific-explorer.manta.network/address/0x3447275b4252b7929483528cF966eB466e71277e)
 - LABDistributor : [0x67c10B7b8eEFe92EB4DfdEeedd94263632E483b0](https://pacific-explorer.manta.network/address/0x67c10B7b8eEFe92EB4DfdEeedd94263632E483b0)
 - RewardController : [0x68b30D4C712BB9B629eb79595a6c804E5968Eb40](https://pacific-explorer.manta.network/address/0x68b30D4C712BB9B629eb79595a6c804E5968Eb40)
 - RebateDistributor : [0xC85836a3878e4DbBEc91ac0701d4F6dB08ce616d](https://pacific-explorer.manta.network/address/0xC85836a3878e4DbBEc91ac0701d4F6dB08ce616d)
 - Core : [0xB7A23Fc0b066051dE58B922dC1a08f33DF748bbf](https://pacific-explorer.manta.network/address/0xB7A23Fc0b066051dE58B922dC1a08f33DF748bbf)
-- PriceCalculator : [0x38f4384B457F81A4895c93a7503c255eFd0746d2](https://pacific-explorer.manta.network/address/0x38f4384B457F81A4895c93a7503c255eFd0746d2)
+- PriceCalculator : [0x90286f894020950981c9E3196BacB03A223e4cfd](https://pacific-explorer.manta.network/address/0x90286f894020950981c9E3196BacB03A223e4cfd)
 - RateModelSlope : [0x27F85bD47740139a56e34124B33481ea6e1e660D](https://pacific-explorer.manta.network/address/0x27F85bD47740139a56e34124B33481ea6e1e660D)
 - lETH : [0x7479c717f2B72116D15B4eaF8D540C497E07e0B6](https://pacific-explorer.manta.network/address/0x7479c717f2B72116D15B4eaF8D540C497E07e0B6)
 - lUSDC : [0x7Def25c6C2b4Bc9e9fB5122D22650F8EcdFeff45](https://pacific-explorer.manta.network/address/0x7Def25c6C2b4Bc9e9fB5122D22650F8EcdFeff45)
@@ -96,12 +97,12 @@
 ### Mode Mainnet
 - LABToken : [0xFE67e16313f4B38743a153f74D5762F7C83e59aE](https://explorer.mode.network/address/0xFE67e16313f4B38743a153f74D5762F7C83e59aE)
 - xLAB : [0xD4Ab4799E66C40485b136580FFa233f7bD2a9f8B](https://explorer.mode.network/address/0xD4Ab4799E66C40485b136580FFa233f7bD2a9f8B)
-- Validator : [0x5AE221cEC86BCdD0cDC616b6C2BBD95d0e68030f](https://explorer.mode.network/address/0x5AE221cEC86BCdD0cDC616b6C2BBD95d0e68030f)
+- Validator : [0x0CCD703Acfe6ce83377243C2DBF9D55A09E12769](https://explorer.mode.network/address/0x0CCD703Acfe6ce83377243C2DBF9D55A09E12769)
 - LABDistributor : [0xe8C3BA0c2AC39F9d97BCEBf913e480b55d4C1AeC](https://explorer.mode.network/address/0xe8C3BA0c2AC39F9d97BCEBf913e480b55d4C1AeC)
 - RewardController : [0xA2c4fF1500F7E5137d2299642118dF7A2C0Ba82a](https://explorer.mode.network/address/0xA2c4fF1500F7E5137d2299642118dF7A2C0Ba82a)
 - RebateDistributor : [0x67d21527b227ec286409c6dd28D4704424cE006f](https://explorer.mode.network/address/0x67d21527b227ec286409c6dd28D4704424cE006f)
 - Core : [0x80980869D90A737aff47aBA6FbaA923012C1FF50](https://explorer.mode.network/address/0x80980869D90A737aff47aBA6FbaA923012C1FF50)
-- PriceCalculator : [0x310E183416d7f266C150e7244733d1DcB1470172](https://explorer.mode.network/address/0x310E183416d7f266C150e7244733d1DcB1470172)
+- PriceCalculator : [0xA6B2535b1c10ca5592Be90A01DD1b6018062f7cf](https://explorer.mode.network/address/0xA6B2535b1c10ca5592Be90A01DD1b6018062f7cf)
 - RateModelSlope : [0x16Cd8DAcE8569c7bd4e903c864444367b9F7b1af](https://explorer.mode.network/address/0x16Cd8DAcE8569c7bd4e903c864444367b9F7b1af)
 - lETH : [0xe855B8018C22A05F84724e93693caf166912aDD5](https://explorer.mode.network/address/0xe855B8018C22A05F84724e93693caf166912aDD5)
 - lUSDC : [0xBa6e89c9cDa3d72B7D8D5B05547a29f9BdBDBaec](https://explorer.mode.network/address/0xBa6e89c9cDa3d72B7D8D5B05547a29f9BdBDBaec)
@@ -117,9 +118,9 @@
 
 
 ### zkLink Nova Mainnet
-- Validator : [0xD0948Dbae9F020E2c74302A7280a56d3606707d9](https://explorer.zklink.io/address/0xD0948Dbae9F020E2c74302A7280a56d3606707d9)
+- Validator : [0x41803cbf77bc87Eb6AA348C14eCaFe4B39423eA0](https://explorer.zklink.io/address/0x41803cbf77bc87Eb6AA348C14eCaFe4B39423eA0)
 - Core : [0x4Ac518DbF0CC730A1c880739CFa98fe0bB284959](https://explorer.zklink.io/address/0x4Ac518DbF0CC730A1c880739CFa98fe0bB284959)
-- PriceCalculator : [0x503CFB99feCFE28b52bbbb044d6b5C4d223096D4](https://explorer.zklink.io/address/0x503CFB99feCFE28b52bbbb044d6b5C4d223096D4)
+- PriceCalculator : [0xB5100461ADF6D8c8E9d7670ae95A1c3d7C62C52f](https://explorer.zklink.io/address/0xB5100461ADF6D8c8E9d7670ae95A1c3d7C62C52f)
 - RateModelSlope : [0xe7899E8152972e90E1BF3B37eE8bFBAD9E9f83d2](https://explorer.zklink.io/address/0xe7899E8152972e90E1BF3B37eE8bFBAD9E9f83d2)
 - lETH : [0xb666582F612692525C4027d2a8280Ac06a055a95](https://explorer.zklink.io/address/0xb666582F612692525C4027d2a8280Ac06a055a95)
 - lSTONE.manta : [0x8c4ba925D899ccde6d3657fcd9416c819EDbef97](https://explorer.zklink.io/address/0x8c4ba925D899ccde6d3657fcd9416c819EDbef97)
@@ -139,9 +140,9 @@
 
 
 ### BSquared Mainnet
-- Validator : [0xba2cB01253a5c97BC4b81C313Dd65588FE908525](https://mainnet-blockscout.bsquared.network/address/0xba2cB01253a5c97BC4b81C313Dd65588FE908525)
+- Validator : [0xEB58C2B3bfd28a5F3BD94854AD493B3118cdf698](https://mainnet-blockscout.bsquared.network/address/0xEB58C2B3bfd28a5F3BD94854AD493B3118cdf698)
 - Core : [0x72f7a8eb9F83dE366AE166DC50F16074076C3Ea6](https://mainnet-blockscout.bsquared.network/address/0x72f7a8eb9F83dE366AE166DC50F16074076C3Ea6)
-- PriceCalculator : [0x1f5765c373b4505A2039c5A8a3eB407735Ea7552](https://mainnet-blockscout.bsquared.network/address/0x1f5765c373b4505A2039c5A8a3eB407735Ea7552)
+- PriceCalculator : [0x636F71d82d46ADdf37E63bd6494af98cc8739DC3](https://mainnet-blockscout.bsquared.network/address/0x636F71d82d46ADdf37E63bd6494af98cc8739DC3)
 - RateModelSlope : [0x5478CAA24512E4865FC494B3996d319387f3ed58](https://mainnet-blockscout.bsquared.network/address/0x5478CAA24512E4865FC494B3996d319387f3ed58)
 - lBTC : [0xAaC19657558DcF4b3724231aC790FD22A6Dd5BEd](https://mainnet-blockscout.bsquared.network/address/0xAaC19657558DcF4b3724231aC790FD22A6Dd5BEd)
 - lETH : [0x53bda0574BE207745f5Ce72706f4DDF59f0d6139](https://mainnet-blockscout.bsquared.network/address/0x53bda0574BE207745f5Ce72706f4DDF59f0d6139)
@@ -156,14 +157,14 @@
 
 
 ### BOB Mainnet
-- Validator : [0xC28083fEAFC667E033Dc178D88fcD710eA6c838c](https://explorer.gobob.xyz/address/0xC28083fEAFC667E033Dc178D88fcD710eA6c838c)
+- Validator : [0xd855EEf2D22A96b65E38A1Cb8079dFc70BD971F2](https://explorer.gobob.xyz/address/0xd855EEf2D22A96b65E38A1Cb8079dFc70BD971F2)
 - labToken : [0x6Bc3EDeeE5D182cd4d5d5b26F54fddA0fAB2b5D1](https://explorer.gobob.xyz/address/0x6Bc3EDeeE5D182cd4d5d5b26F54fddA0fAB2b5D1)
 - xLAB : [0xce584875A584485bFf208a4FC2C70CB7e98f98C3](https://explorer.gobob.xyz/address/0xce584875A584485bFf208a4FC2C70CB7e98f98C3)
 - labDistributor: [0x7851b2F6287e79fAf76F67A0dAd6846292983E0b](https://explorer.gobob.xyz/address/0x7851b2F6287e79fAf76F67A0dAd6846292983E0b)
 - rewardController: [0xC8485B4B7899e75149c74c18798B0Cc3487caB37](https://explorer.gobob.xyz/address/0xC8485B4B7899e75149c74c18798B0Cc3487caB37)
 - rebateDistributor: [0x1097cc6F09cc0731e596d91d8b3b50De331cB5A7](https://explorer.gobob.xyz/address/0x1097cc6F09cc0731e596d91d8b3b50De331cB5A7)
 - Core : [0x77cabFd057Bd7C81c011059F1bf74eC1fBeDa971](https://explorer.gobob.xyz/address/0x77cabFd057Bd7C81c011059F1bf74eC1fBeDa971)
-- PriceCalculator : [0x109F83CFC3164562B6fb1addf02Bfa65bF6f71BE](https://explorer.gobob.xyz/address/0x109F83CFC3164562B6fb1addf02Bfa65bF6f71BE)
+- PriceCalculator : [0x626FbEc20D6A9Fde562F512F0D6Ea7F9f923e27c](https://explorer.gobob.xyz/address/0x626FbEc20D6A9Fde562F512F0D6Ea7F9f923e27c)
 - RateModelSlope : [0x043962844E12555968777722e6ed2714C1851475](https://explorer.gobob.xyz/address/0x043962844E12555968777722e6ed2714C1851475)
 - lWBTC : [0x0c1F45ADc1fC37eA2d47c2feB0a7E60671115fa4](https://explorer.gobob.xyz/address/0x0c1F45ADc1fC37eA2d47c2feB0a7E60671115fa4)
 - lETH : [0xbd00E7923775C781D1BF0cAE4e0de8EFe8B60ccB](https://explorer.gobob.xyz/address/0xbd00E7923775C781D1BF0cAE4e0de8EFe8B60ccB)
@@ -177,9 +178,9 @@
 
 
 ### Bitlayer Mainnet
-- Validator : [0xc7C26EFa9Dd5b4C3c19A2DeA276b7c8607E19B30](https://www.btrscan.com/address/0xc7C26EFa9Dd5b4C3c19A2DeA276b7c8607E19B30)
+- Validator : [0x72cB37bd7Fb84F4edeF4CA1947d2cEFdcF067a47](https://www.btrscan.com/address/0x72cB37bd7Fb84F4edeF4CA1947d2cEFdcF067a47)
 - Core : [0xf1E25704e75dA0496B46Bf4E3856c5480A3c247F](https://www.btrscan.com/address/0xf1E25704e75dA0496B46Bf4E3856c5480A3c247F)
-- PriceCalculator : [0x6d0cBF30D68B8f65D848f210d7F776dCbD0a822f](https://www.btrscan.com/address/0x6d0cBF30D68B8f65D848f210d7F776dCbD0a822f)
+- PriceCalculator : [0x674e1dB2e343eE704Fc783529ba0050432d690d8](https://www.btrscan.com/address/0x674e1dB2e343eE704Fc783529ba0050432d690d8)
 - RateModelSlope : [0xd2740958Cf90072f540b934A03ca9c6A884cadfE](https://www.btrscan.com/address/0xd2740958Cf90072f540b934A03ca9c6A884cadfE)
 - RateModelSlope : [0x04A4697415147a400a45B913ef6098Aa7561C544](https://www.btrscan.com/address/0x04A4697415147a400a45B913ef6098Aa7561C544)
 - lBTC : [0x1471b4FAc13d42F3447fBA145bdfE95C6e7e7540](https://www.btrscan.com/address/0x1471b4FAc13d42F3447fBA145bdfE95C6e7e7540)
@@ -190,9 +191,9 @@
 - Leverager : [0xc876Cd18c3A7CA6EeF115DEb5f4EcD95e0Fa2e76](https://www.btrscan.com/address/0xc876Cd18c3A7CA6EeF115DEb5f4EcD95e0Fa2e76)
 
 ### Mint Mainnet
-- Validator : [0xcB43E12696fc71319E0979DF3371Fb15b233f577](https://mintscan.org/address/0xcB43E12696fc71319E0979DF3371Fb15b233f577)
+- Validator : [0xc12E55c2Ee2e2b6FC7Fa39243fbf38ACf83d0912](https://mintscan.org/address/0xc12E55c2Ee2e2b6FC7Fa39243fbf38ACf83d0912)
 - Core : [0x0f225d10dd29D4703D42C5E93440F828bf04D150](https://mintscan.org/address/0x0f225d10dd29D4703D42C5E93440F828bf04D150)
-- PriceCalculator : [0x0f51d16Eac6D78bDf43226E21992c6731bc504Df](https://mintscan.org/address/0x0f51d16Eac6D78bDf43226E21992c6731bc504Df)
+- PriceCalculator : [0x1fB33eee1203173AB37c7F36587cD6ad475b478C](https://mintscan.org/address/0x1fB33eee1203173AB37c7F36587cD6ad475b478C)
 - RateModelSlope : [0x7FdA383E99474C71535f4A88a8B73934BB4DDB0B](https://mintscan.org/address/0x7FdA383E99474C71535f4A88a8B73934BB4DDB0B)
 - RateModelSlope : [0x11c4f877147689Cdd06b4f335e0D4bcF58239F3f](https://mintscan.org/address/0x11c4f877147689Cdd06b4f335e0D4bcF58239F3f)
 - RateModelSlope : [0x20dF19F03c6409547514fc1dc27141d5BF435e62](https://mintscan.org/address/0x20dF19F03c6409547514fc1dc27141d5BF435e62)
@@ -204,9 +205,9 @@
 - Leverager : [0xbD5939c137cc0B47F37d04f431de1Df7b8d4f564](https://mintscan.org/address/0xbD5939c137cc0B47F37d04f431de1Df7b8d4f564)
 
 ### Taiko Mainnet
-- Validator : [0xe493eDEf6d58a934d077c11b781e37e19eBc288c](https://taikoexplorer.com/address/0xe493eDEf6d58a934d077c11b781e37e19eBc288c)
+- Validator : [0x03B2C12A8F94c9598b9b9b32C56285228B279F7F](https://taikoexplorer.com/address/0x03B2C12A8F94c9598b9b9b32C56285228B279F7F)
 - Core : [0x803a61d82BaD2743bE35Be5dC6DEA0CccE82C056](https://taikoexplorer.com/address/0x803a61d82BaD2743bE35Be5dC6DEA0CccE82C056)
-- PriceCalculator : [0xD8a07C96B497E4742aea2ccbB5E50D8Fe693320D](https://taikoexplorer.com/address/0xD8a07C96B497E4742aea2ccbB5E50D8Fe693320D)
+- PriceCalculator : [0xC7C6DCd053C855e7039090804d465a07Ea47c0d1](https://taikoexplorer.com/address/0xC7C6DCd053C855e7039090804d465a07Ea47c0d1)
 - RateModelSlope : [0x544830458f820F7aa925096B36C399862bD657E3](https://taikoexplorer.com/address/0x544830458f820F7aa925096B36C399862bD657E3)
 - RateModelSlope : [0x2ab863C976A44FD6eB3bb0d92E53a4Ad72C585Db](https://taikoexplorer.com/address/0x2ab863C976A44FD6eB3bb0d92E53a4Ad72C585Db)
 - RateModelSlope : [0x0a44eaC7e24f070516228d45D654e804c73832B5](https://taikoexplorer.com/address/0x0a44eaC7e24f070516228d45D654e804c73832B5)
@@ -220,9 +221,9 @@
 - Leverager : [0xd3Af5D4491aC64C97818B3bCB0D9BbeecC248890](https://taikoexplorer.com/address/0xd3Af5D4491aC64C97818B3bCB0D9BbeecC248890)
 
 ### BNB Mainnet
-- Validator : [0x2Ab09847aEf39023e7Bb784475914014c0Fc05cd](https://bscscan.com/address/0x2Ab09847aEf39023e7Bb784475914014c0Fc05cd)
+- Validator : [0x9aFa0A536d695f915AdEa6575F102dc1A228dfa6](https://bscscan.com/address/0x9aFa0A536d695f915AdEa6575F102dc1A228dfa6)
 - Core : [0x8eFdD7396b83Cd53ae7555224A30c41b1A100ffA](https://bscscan.com/address/0x8eFdD7396b83Cd53ae7555224A30c41b1A100ffA)
-- PriceCalculator : [0xAC6F8379f17D9232A4CcF55170647F8625697A66](https://bscscan.com/address/0xAC6F8379f17D9232A4CcF55170647F8625697A66)
+- PriceCalculator : [0xe1A2D363fA2645830F137F589DE29Bf7BfE12fFF](https://bscscan.com/address/0xe1A2D363fA2645830F137F589DE29Bf7BfE12fFF)
 - RateModelSlope : [0xd2EF9A563525C1409c1D48518DBf164eF9DF3Cf4](https://bscscan.com/address/0xd2EF9A563525C1409c1D48518DBf164eF9DF3Cf4)
 - RateModelSlope : [0x56294e2DE1f7DA3bfD9d0B26A06279C7E3C94899](https://bscscan.com/address/0x56294e2DE1f7DA3bfD9d0B26A06279C7E3C94899)
 - RateModelSlope : [0x8A6c881A5FdB42604C9Fe6e206350DFdd6616178](https://bscscan.com/address/0x8A6c881A5FdB42604C9Fe6e206350DFdd6616178)
@@ -243,9 +244,9 @@
 - lXRP : [0xF2794eFBf9C510f107928e1400eb2A108252725d](https://bscscan.com/address/0xF2794eFBf9C510f107928e1400eb2A108252725d)
 
 ### Morph Mainnet
-- Validator : [0xDeC15D98f4ab835A3f6DF01489BC820E037C4e04](https://explorer.morphl2.io/address/0xDeC15D98f4ab835A3f6DF01489BC820E037C4e04)
+- Validator : [0xC5Fbb8A210cf096e0Df7D4Aca5D7902D4C0d25d4](https://explorer.morphl2.io/address/0xC5Fbb8A210cf096e0Df7D4Aca5D7902D4C0d25d4)
 - Core : [0xD48c646CF9B011D97E31770873985ADD8ed7371c](https://explorer.morphl2.io/address/0xD48c646CF9B011D97E31770873985ADD8ed7371c)
-- PriceCalculator: [0xE40E025A076E2cCf2c3384F439834870Db1A1f24](https://explorer.morphl2.io/address/0xE40E025A076E2cCf2c3384F439834870Db1A1f24)
+- PriceCalculator: [0xebBeA62F9e4D97D42f4784d8E04b054dae553B40](https://explorer.morphl2.io/address/0xebBeA62F9e4D97D42f4784d8E04b054dae553B40)
 - RateModelSlope : [0x2914f7B83878E30F4A33e2a7a36FBc5fAb06E7Ae](https://explorer.morphl2.io/address/0x2914f7B83878E30F4A33e2a7a36FBc5fAb06E7Ae)
 - RateModelSlope : [0x418a9681e51F7DfB01f3bb89E40BccE6fD6BE53e](https://explorer.morphl2.io/address/0x418a9681e51F7DfB01f3bb89E40BccE6fD6BE53e)
 - RateModelSlope : [0xADc1638C74b6B2a698DFa2339B85934CB7ea79E1](https://explorer.morphl2.io/address/0xADc1638C74b6B2a698DFa2339B85934CB7ea79E1)
@@ -260,9 +261,9 @@
 - lmphBTC : [0x69F78aAb5e865A897cee2BaB97DEAe6B6bF76F08](https://explorer.morphl2.io/address/0x69F78aAb5e865A897cee2BaB97DEAe6B6bF76F08)
 
 ### Hemi Mainnet
-- Validator : [0x99fbfC4E3355cEE040CB88192880AFda8A3F8f9F](https://explorer.hemi.xyz/address/0x99fbfC4E3355cEE040CB88192880AFda8A3F8f9F)
+- Validator : [0xF676ba00B0A2cdFE70a25647DA82184882475990](https://explorer.hemi.xyz/address/0xF676ba00B0A2cdFE70a25647DA82184882475990)
 - Core : [0x16B3A05f1adaCa8F028AAd7C5B0475cC512a0619](https://explorer.hemi.xyz/address/0x16B3A05f1adaCa8F028AAd7C5B0475cC512a0619)
-- PriceCalculator: [0x9c5973Fbbe1C5C4E75f435f47a046663Cc613B6c](https://explorer.hemi.xyz/address/0x9c5973Fbbe1C5C4E75f435f47a046663Cc613B6c)
+- PriceCalculator: [0x3a7232BFC55A680A72929925FA82c40b2Eb8BA3b](https://explorer.hemi.xyz/address/0x3a7232BFC55A680A72929925FA82c40b2Eb8BA3b)
 - RateModelSlope : [0xa6BBbAe25277a10F2258384C114920a4712d4798](https://explorer.hemi.xyz/address/0xa6BBbAe25277a10F2258384C114920a4712d4798)
 - RateModelSlope : [0xf930785cb93d2AB6e483015aEe6442B59566B0FB](https://explorer.hemi.xyz/address/0xf930785cb93d2AB6e483015aEe6442B59566B0FB)
 - RateModelSlope : [0x92ce82ab8aE3648f03CCFD16D7a7aE8ca4911bbA](https://explorer.hemi.xyz/address/0x92ce82ab8aE3648f03CCFD16D7a7aE8ca4911bbA)
