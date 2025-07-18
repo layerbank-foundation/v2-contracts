@@ -285,6 +285,20 @@
 - lhBTC : [0x9A52655b2e41b93aFf924D5aF7CD243D037dCab6](https://explorer.hemi.xyz/address/0x9A52655b2e41b93aFf924D5aF7CD243D037dCab6)
 
 
+### Rootstock Mainnet
+- Validator : [0x320f172A97fE71c1969BC4a2287a6529491d51D9](https://explorer.rootstock.io/address/0x320f172A97fE71c1969BC4a2287a6529491d51D9)
+- Core : [0xc30991623fb2a63E6e1B59A29987E1EEE57447bF](https://explorer.rootstock.io/address/0xc30991623fb2a63E6e1B59A29987E1EEE57447bF)
+- PriceCalculator: [0x64856384E17890b78083B55075B23cBBb9a36748](https://explorer.rootstock.io/address/0x64856384E17890b78083B55075B23cBBb9a36748)
+- RateModelSlope : [0x1eEF86e8dEA106D531332fE80598D5A725c7f653](https://explorer.rootstock.io/address/0x1eEF86e8dEA106D531332fE80598D5A725c7f653)
+- RateModelSlope : [0x5c081CBACC8cA269B673a7e9eD686d38c889aEF2](https://explorer.rootstock.io/address/0x5c081CBACC8cA269B673a7e9eD686d38c889aEF2)
+- RateModelSlope : [0x72d7F67265Fa4Ed087Fc4525F200fdDC0944376C](https://explorer.rootstock.io/address/0x72d7F67265Fa4Ed087Fc4525F200fdDC0944376C)
+- lRBTC : [0x30d6a5CFE5EA4B32123b961eBF1168940E2131A3](https://explorer.rootstock.io/address/0x30d6a5CFE5EA4B32123b961eBF1168940E2131A3)
+- lRIF : [0xEF58048514865B013E1B2E1c983eD2df86FAeDBa](https://explorer.rootstock.io/address/0xEF58048514865B013E1B2E1c983eD2df86FAeDBa)
+- lUSDCe : [0x8d1d7cDdf271d099C6f0288240f59F9c9237a3EE](https://explorer.rootstock.io/address/0x8d1d7cDdf271d099C6f0288240f59F9c9237a3EE)
+- lUSDT : [0x0B71E6d0471CAE937481059CD8E884375318b69a](https://explorer.rootstock.io/address/0x0B71E6d0471CAE937481059CD8E884375318b69a)
+- lWETH : [0xDFf0e10463FF45e84B1f0111A2e4b9d66a986000](https://explorer.rootstock.io/address/0xDFf0e10463FF45e84B1f0111A2e4b9d66a986000)
+
+
 ## Contacts
 - Twitter : [@LayerBankFi](https://twitter.com/LayerBankFi)
 - Discord : https://discord.com/invite/g8eNuudNxe
